@@ -1,0 +1,189 @@
+#BackgroundDisplayHelper {
+    background-image:url('SchoolLogosBackground-720p-new.png');
+    background-size:     100vw 100vh;
+    background-repeat:   no-repeat;
+background-position: center center; 
+background-color:#E7E8E8;}
+
+.loginFormLogo{
+background:url('') no-repeat 50% 50%;
+background-size:75%;
+height:210px;
+width:360px;}
+
+#LoginBox {
+background-image:url('saddleport-logo.png') !important ;
+background-repeat:   no-repeat;
+background-position:top;
+background-size:210px;
+background-color:#FFFFFF;
+border: 10px solid #FFFFFF;
+border-radius:10px;
+box-shadow:0 2px 8px 2px rgba(0, 0, 0, 0.5);
+min-height:410px;
+height:auto;
+left:0;
+margin:0 auto;
+overflow:visible;
+/*position:relative;*/
+right:0;
+width:150px;
+z-index:38;
+width:300px;
+/*position:absolute;*/
+overflow:visible;}
+
+#loginForm .loginForm-input-container{
+margin-top:10px;
+margin-bottom:0px;}
+.loginPage #LoginBox {
+height:350px;}
+.first-input {
+margin-top:0px;}
+.loginForm-info-table .loginInformation-icon {
+padding:3px 15px 3px 46px;
+text-align:left;
+background-size:24px;
+border-radius:4px;
+margin:3px 0px;
+min-width:160px;}
+.loginForm-info-table {
+width:60%;
+margin:20px auto 0px auto;}
+.loginForm-info-table br {
+line-height:14px;}
+.loginForm-info-table td {
+text-align:center;}
+.loginForm-label-cell {
+display:none;}
+.loginForm-button-cell {
+text-align:center;
+padding-top:10px;}
+.resetPasswordIcon {
+background:#095483 url(/images/wallpapers/SVUSD_Portal_Test/reset_password.png) no-repeat 10px 50%;}
+.sysCheckIcon {
+background:#095483 url(https://portal.svusd.org/images/wallpapers/SVUSD_Portal_Test/SystemCheckIcon.png) no-repeat 10px 50%;}
+.qrIcon {
+background:#095483 url(/images/wallpapers/SVUSD_Portal_Test/qrIcon.png) no-repeat 10px 50%;}
+.loginInformation-label {
+color:#FFFFFF;
+font-size:small;
+line-height:23px;}
+.loginInformation-icon {
+display:inline-block;}
+.loginInformation-link {
+font-size:9px;
+font-family:verdana,sans-serif;
+color:#095483;
+font-weight:bold;}
+.loginForm-text-input {
+background-color:#ffffff;
+color:#666666;
+font-family:Helvetica;
+font-size:13px;
+height:39px;
+line-height:39px;
+width:100%;
+padding-left:3px;}
+.loginForm-text-description {
+color:#095483;
+font-family:verdana,sans-serif;}
+.loginForm-value-cell {
+text-align:left;
+padding:4px 0px 0px 7px;}
+.loginForm-value-cell input {
+margin-right:3px;}
+.loginForm-input-container {
+height:39px;
+margin-bottom:10px;
+padding:0px;
+border:1px solid #B5BCC7;}
+.loginForm-main-table {
+padding-top:100px;
+border-spacing:2px;}
+.mast {
+width:0%;
+height:0px;
+left:0;top:0;
+z-index:15;}
+.loginFormIconAlert{
+background-image:url('/images/wallpapers/SVUSD_Portal_Test/SadCloud.png');
+background-size:177px;
+padding-top:60px;}
+.loginStatusText {
+font-size:24px;
+color:#FF0000;
+text-align:center;
+padding-top:60px;
+padding-bottom:10px;}
+.loginCenteredContent {
+background-repeat:no-repeat;
+background-position:top center;
+text-align:center;
+color:#FF0000;}
+.loginContent {
+float:left;
+height:100%;
+width:50%;}
+.loginBlock {
+padding:0px 15px 10px 15px;
+text-align:center;}
+.loginWarningText {
+font-size:13px;
+font-family:arial,sans-serif;
+color:#FF0000;
+font-weight:normal;
+text-decoration:none;
+padding-top:10px;}
+.loginTextOverride {
+font-size:12px;
+font-family:arial,sans-serif;
+color:#3e456c;}
+.WebOSButton {
+border:1px solid #095483;
+background:#095483;
+box-shadow:0 1px 0 #095483 inset;
+color:#FFFFFF;
+width:90px;
+height:38px;
+border-radius:2px;
+font-weight:400;
+line-height:1.38;
+text-align:center;}
+.WebOSButton:hover {
+background-image:url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgdmlld0JveD0iMCAwIDY0IDMwIiBwcmVzZXJ2ZUFzcGVjdFJhdGlvPSJub25lIj48bGluZWFyR3JhZGllbnQgaWQ9ImhhdDAiIGdyYWRpZW50VW5pdHM9Im9iamVjdEJvdW5kaW5nQm94IiB4MT0iNTAlIiB5MT0iMTAwJSIgeDI9IjUwJSIgeTI9Ii0xLjQyMTA4NTQ3MTUyMDJlLTE0JSI+CjxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9IiMyY2I1ZDkiIHN0b3Atb3BhY2l0eT0iMSIvPgo8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiMyM2MxZTciIHN0b3Atb3BhY2l0eT0iMSIvPgogICA8L2xpbmVhckdyYWRpZW50PgoKPHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjY0IiBoZWlnaHQ9IjMwIiBmaWxsPSJ1cmwoI2hhdDApIiAvPgo8L3N2Zz4=);
+background-image:-moz-linear-gradient(bottom, #1075b4 0%, #1075b4 100%);
+background-image:-o-linear-gradient(bottom, #1075b4 0%, #1075b4 100%);
+background-image:-webkit-linear-gradient(bottom, #1075b4 0%, #1075b4 100%);
+background-image:linear-gradient(bottom, #1075b4 0%, #1075b4 100%);}
+
+#errorMessage {
+color:#E23B00;}
+
+footer div {
+background-color:#095483;
+bottom:0;
+height:46px;
+left:0;
+width:100%;
+z-index:6;}
+
+footer img {
+display:block;
+float:left;
+height:auto;
+margin:-552px 0 0 18.0833%;
+overflow:hidden;
+width:792px;}
+
+#WrapperMessage {
+padding-top:100px;
+color:#FFFFFF;
+font-family:arial,sans-serif;
+text-align:center;
+font-size:0px;}
+
+#WrapperMessage b {
+font-size:26px;
+font-weight:bolder;
+color:#095483;}
